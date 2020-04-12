@@ -20,8 +20,21 @@ As mentioned in the introduction, most of the courses are on web and mobile deve
 
 So we first need to clarify whether the data set has the right categories of people for our purpose. The <span style='background :Pink'>JobRoleInterest</span> column describes for every participant the role(s) they'd be interested in working in. If a participant is interested in working in a certain domain, it means that they're also interested in learning about that domain. So let's take a look at the frequency distribution table of this column and determine whether the data we have is relevant.
 
+                ### Boxplot
 <img src="image1.png">
 
+### Choosing the Two Best Markets
+Obviously, one country we should advertise in is the US. Lots of new coders live there and they are willing to pay a good amount of money each month (roughly \$143).
+
+We sell subscriptions at a price of \$59 per month, and Canada seems to be the best second choice because people there are willing to pay roughly \$93 per month, compared to India (\$66) and the United Kingdom (\$45).
+
+The data suggests strongly that we shouldn't advertise in the UK, but let's take a second look at India before deciding to choose Canada as our second best choice:
+
+- $59 doesn't seem like an expensive sum for people in India since they spend on average \$66 each month.
+- We have almost twice as more potential customers in India than we have in Canada:
+
+                ### Frequency Table
+<img src="image2.png">
 So it's not crystal clear what to choose between Canada and India. Although it seems more tempting to choose Canada, there are good chances that India might actually be a better choice because of the large number of potential customers.
 
 At this point, it seems that we have several options:
@@ -42,3 +55,8 @@ At this point, it's probably best to send our analysis to the marketing team and
 In this project, we analyzed survey data from new coders to find the best two markets to advertise in. The only solid conclusion we reached is that the US would be a good market to advertise in.
 
 For the second best market, it wasn't clear-cut what to choose between India and Canada. We decided to send the results to the marketing team so they can use their domain knowledge to take the best decision.
+
+## Note
+### - Please see the _freecodecamp.ipynb_ file to see whole project in detail.
+### - Please see _freecodecamp.py_ file to see the python code.
+### -  _2017-fCC-New-Coders-Survey-Data.csv_ is the datasets we used in this project.
