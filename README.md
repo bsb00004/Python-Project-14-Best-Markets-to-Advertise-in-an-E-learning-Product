@@ -20,7 +20,7 @@ As mentioned in the introduction, most of the courses are on web and mobile deve
 
 So we first need to clarify whether the data set has the right categories of people for our purpose. The <span style='background :Pink'>JobRoleInterest</span> column describes for every participant the role(s) they'd be interested in working in. If a participant is interested in working in a certain domain, it means that they're also interested in learning about that domain. So let's take a look at the frequency distribution table of this column and determine whether the data we have is relevant.
 
- ### Boxplot
+   ### Final Boxplot
 <img src="image1.png">
 
 ### Choosing the Two Best Markets
@@ -33,7 +33,7 @@ The data suggests strongly that we shouldn't advertise in the UK, but let's take
 - $59 doesn't seem like an expensive sum for people in India since they spend on average \$66 each month.
 - We have almost twice as more potential customers in India than we have in Canada:
 
-                ### Frequency Table
+     ### Final Frequency Table
 <img src="image2.png">
 So it's not crystal clear what to choose between Canada and India. Although it seems more tempting to choose Canada, there are good chances that India might actually be a better choice because of the large number of potential customers.
 
