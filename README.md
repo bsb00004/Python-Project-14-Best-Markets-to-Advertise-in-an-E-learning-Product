@@ -57,6 +57,6 @@ In this project, we analyzed survey data from new coders to find the best two ma
 For the second best market, it wasn't clear-cut what to choose between India and Canada. We decided to send the results to the marketing team so they can use their domain knowledge to take the best decision.
 
 ## Note
-### - Please see the <span style='background :pink'>_freecodecamp.ipynb_</span> file to see whole project in detail.
-### - Please see <span style='background :pink'>_freecodecamp.py_</span> _freecodecamp.py_ file to see the python code.
-### - <span style='background :pink'>_2017-fCC-New-Coders-Survey-Data.csv__</span> is the datasets we used in this project.
+### - Please see the <span style='background :pink'>freecodecamp.ipynb</span> file to see whole project in detail.
+### - Please see <span style='background :pink'>freecodecamp.py</span> file to see the python code.
+### - <span style='background :pink'>2017-fCC-New-Coders-Survey-Data.csv</span> is the datasets we used in this project.
