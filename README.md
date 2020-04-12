@@ -20,7 +20,7 @@ As mentioned in the introduction, most of the courses are on web and mobile deve
 
 So we first need to clarify whether the data set has the right categories of people for our purpose. The <span style='background :Pink'>JobRoleInterest</span> column describes for every participant the role(s) they'd be interested in working in. If a participant is interested in working in a certain domain, it means that they're also interested in learning about that domain. So let's take a look at the frequency distribution table of this column and determine whether the data we have is relevant.
 
-                ### Boxplot
+ ### Boxplot
 <img src="image1.png">
 
 ### Choosing the Two Best Markets
