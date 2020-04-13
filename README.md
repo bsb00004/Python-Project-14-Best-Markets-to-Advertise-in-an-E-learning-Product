@@ -57,4 +57,4 @@ For the second best market, it wasn't clear-cut what to choose between India and
 ## Note
 ### - Please see the `freecodecamp.ipynb` file to see whole project in detail.
 ### - Please see `freecodecamp.py` file to see the python code.
-### - `2017-fCC-New-Coders-Survey-Data.csv` is the datasets we used in this project.
+### - `2017-fCC-New-Coders-Survey-Data.csv` is the dataset we used in this project.
